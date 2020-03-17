@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<title>forest web client</title>
+<root xmlns='https://github.com/Garmelon/Forest'
+      act='false' edit='false' reply='false' delete='false'>
+  <text>Forest</text>
+  <children>
+    <node id='0'>
+      <text>About</text>
+	</node>
+    <node id='1' act='false' edit='false' reply='true' delete='false'>
+      <text>Sandbox</text>
+      
+    </node>
+  </children>
+</root>
